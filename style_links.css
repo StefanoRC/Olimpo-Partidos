@@ -1,0 +1,12 @@
+a {
+    color: inherit;
+    /* Hereda el color del texto del padre */
+    text-decoration: none;
+    /* Elimina el subrayado */
+}
+
+/* Opcional: estilo para el hover */
+a:hover {
+    color: darkgreen;
+    /* Cambia el color del enlace al pasar el cursor */
+}
